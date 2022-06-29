@@ -1,0 +1,506 @@
+{
+    "Subjects": [
+      {
+        "name": "Toán",
+        "allTime": 140
+      },
+      {
+        "name": "Văn",
+        "allTime": 140
+      },
+      {
+        "name": "Ngoại ngữ 1",
+        "allTime": 105
+      },
+      {
+        "name": "Ngoại ngữ 2",
+        "allTime": 60
+      },
+      {
+        "name": "Giáo dục công dân",
+        "allTime": 35
+      },
+      {
+        "name": "Lịch sử và Địa lý",
+        "allTime": 105
+      },
+      {
+        "name": "Khoa học tự nhiên",
+        "allTime": 140
+      },
+      {
+        "name": "Tin học",
+        "allTime": 52.5
+      },
+      {
+        "name": "Công nghệ và hướng nghiệp",
+        "allTime": 70
+      },
+      {
+        "name": "Giáo dục thể chất",
+        "allTime": 70
+      },
+      {
+        "name": "Nghệ thuật",
+        "allTime": 70
+      },
+      {
+        "name": "Hoạt động trải nghiệm sáng tạo",
+        "allTime": 105
+      }
+    ],
+    "Classes":[
+        "6A",
+        "6B",
+        "6C",
+        "6D",
+        "7A",
+        "7B",
+        "7C",
+        "7D",
+        "8A",
+        "8B",
+        "8C",
+        "8D",
+        "9A",
+        "9B",
+        "9C",
+        "9D"
+    ],
+    "Weekdays":[
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+    ],
+    "Teachers": [
+    {
+      "name": "Teacher01",
+      "subject": "Toán",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher02",
+      "subject": "Toán",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher03",
+      "subject": "Toán",
+      "listGrade": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher04",
+      "subject": "Toán",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher05",
+      "subject": "Toán",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher06",
+      "subject": "Toán",
+      "listGrade": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Teacher07",
+      "subject": "Văn",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher08",
+      "subject": "Văn",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher09",
+      "subject": "Văn",
+      "listGrade": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Teacher10",
+      "subject": "Văn",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher11",
+      "subject": "Văn",
+      "listGrade": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher12",
+      "subject": "Văn",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher23",
+      "subject": "Lịch sử và Địa lý",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher24",
+      "subject": "Lịch sử và Địa lý",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher25",
+      "subject": "Lịch sử và Địa lý",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher26",
+      "subject": "Lịch sử và Địa lý",
+      "listGrade": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher27",
+      "subject": "Lịch sử và Địa lý",
+      "listGrade": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Teacher28",
+      "subject": "Khoa học tự nhiên",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher29",
+      "subject": "Khoa học tự nhiên",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher30",
+      "subject": "Khoa học tự nhiên",
+      "listGrade": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Teacher31",
+      "subject": "Khoa học tự nhiên",
+      "listGrade": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher32",
+      "subject": "Khoa học tự nhiên",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher33",
+      "subject": "Tin học",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher34",
+      "subject": "Tin học",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher35",
+      "subject": "Tin học",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher36",
+      "subject": "Tin học",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher37",
+      "subject": "Tin học",
+      "listGrade": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Teacher38",
+      "subject": "Giáo dục công dân",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher39",
+      "subject": "Giáo dục công dân",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher40",
+      "subject": "Giáo dục công dân",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher41",
+      "subject": "Ngoại ngữ 1",
+      "listGrade": [
+        6,
+        9
+      ]
+    },
+    {
+      "name": "Teacher42",
+      "subject": "Ngoại ngữ 1",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher43",
+      "subject": "Ngoại ngữ 1",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher44",
+      "subject": "Ngoại ngữ 2",
+      "listGrade": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher45",
+      "subject": "Ngoại ngữ 2",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher46",
+      "subject": "Ngoại ngữ 2",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher47",
+      "subject": "Giáo dục thể chất",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher48",
+      "subject": "Giáo dục thể chất",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher49",
+      "subject": "Giáo dục thể chất",
+      "listGrade": [
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher50",
+      "subject": "Nghệ thuật",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher51",
+      "subject": "Nghệ thuật",
+      "listGrade": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "Teacher52",
+      "subject": "Nghệ thuật",
+      "listGrade": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher53",
+      "subject": "Hoạt động trải nghiệm sáng tạo",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher54",
+      "subject": "Hoạt động trải nghiệm sáng tạo",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher55",
+      "subject": "Công nghệ và hướng nghiệp",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Teacher56",
+      "subject": "Công nghệ và hướng nghiệp",
+      "listGrade": [
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ]
+}
