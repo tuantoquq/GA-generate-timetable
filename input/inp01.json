@@ -2,51 +2,51 @@
     "Subjects": [
       {
         "name": "Toán",
-        "allTime": 140
+        "allTime": 6
       },
       {
         "name": "Văn",
-        "allTime": 140
+        "allTime": 6
       },
       {
         "name": "Ngoại ngữ 1",
-        "allTime": 105
+        "allTime": 4
       },
       {
         "name": "Ngoại ngữ 2",
-        "allTime": 60
+        "allTime": 4
       },
       {
         "name": "Giáo dục công dân",
-        "allTime": 35
+        "allTime": 3
       },
       {
         "name": "Lịch sử và Địa lý",
-        "allTime": 105
+        "allTime": 4
       },
       {
         "name": "Khoa học tự nhiên",
-        "allTime": 140
+        "allTime": 4
       },
       {
         "name": "Tin học",
-        "allTime": 52.5
+        "allTime": 3
       },
       {
         "name": "Công nghệ và hướng nghiệp",
-        "allTime": 70
+        "allTime": 3
       },
       {
         "name": "Giáo dục thể chất",
-        "allTime": 70
+        "allTime": 2
       },
       {
         "name": "Nghệ thuật",
-        "allTime": 70
+        "allTime": 2
       },
       {
         "name": "Hoạt động trải nghiệm sáng tạo",
-        "allTime": 105
+        "allTime": 1
       }
     ],
     "Classes":[

@@ -2,8 +2,8 @@
 
 ### Constraint
     
-    1. No teacher can hold two classes at the same time (same lession)
-    2. No classroom can receive two classes at the same time (same lession)
+    1. No teacher can hold two classes at the same time (same lesson)
+    2. No classroom can receive two classes at the same time (same lesson)
     3. Each teacher can only teach one subject
 
 ### Constants
