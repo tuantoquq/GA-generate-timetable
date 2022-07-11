@@ -1,673 +1,601 @@
-WeekDate,Lesson,Class,Teacher,Subject,TeacherCanTeach
-Monday,1,6A,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Monday,1,6B,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Monday,1,6C,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Monday,1,6D,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Monday,1,7A,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Monday,1,7B,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Monday,1,7C,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Monday,1,7D,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Monday,1,8A,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Monday,1,8B,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Monday,1,8C,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Monday,1,8D,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Monday,1,9A,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Monday,1,9B,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Monday,1,9C,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Monday,1,9D,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Monday,2,6A,Teacher12,Văn,"[6, 7, 8, 9]"
-Monday,2,6B,Teacher02,Toán,"[6, 8, 9]"
-Monday,2,6C,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Monday,2,6D,Teacher33,Tin học,"[6, 7, 8, 9]"
-Monday,2,7A,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Monday,2,7B,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Monday,2,7C,Teacher08,Văn,"[6, 8, 9]"
-Monday,2,7D,Teacher07,Văn,"[6, 7, 9]"
-Monday,2,8A,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Monday,2,8B,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Monday,2,8C,Teacher07,Văn,"[6, 7, 9]"
-Monday,2,8D,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Monday,2,9A,Teacher35,Tin học,"[6, 7, 9]"
-Monday,2,9B,Teacher01,Toán,"[6, 7, 9]"
-Monday,2,9C,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Monday,2,9D,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Monday,3,6A,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Monday,3,6B,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Monday,3,6C,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Monday,3,6D,Teacher35,Tin học,"[6, 7, 9]"
-Monday,3,7A,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Monday,3,7B,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Monday,3,7C,Teacher08,Văn,"[6, 8, 9]"
-Monday,3,7D,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Monday,3,8A,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Monday,3,8B,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Monday,3,8C,Teacher35,Tin học,"[6, 7, 9]"
-Monday,3,8D,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Monday,3,9A,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Monday,3,9B,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Monday,3,9C,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Monday,3,9D,Teacher08,Văn,"[6, 8, 9]"
-Monday,4,6A,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Monday,4,6B,Teacher01,Toán,"[6, 7, 9]"
-Monday,4,6C,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Monday,4,6D,Teacher35,Tin học,"[6, 7, 9]"
-Monday,4,7A,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Monday,4,7B,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Monday,4,7C,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Monday,4,7D,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Monday,4,8A,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Monday,4,8B,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Monday,4,8C,Teacher34,Tin học,"[6, 8, 9]"
-Monday,4,8D,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Monday,4,9A,Teacher05,Toán,"[6, 8, 9]"
-Monday,4,9B,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Monday,4,9C,Teacher06,Toán,"[6, 7, 8]"
-Monday,4,9D,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Monday,5,6A,Teacher04,Toán,"[6, 7, 8, 9]"
-Monday,5,6B,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Monday,5,6C,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Monday,5,6D,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Monday,5,7A,Teacher02,Toán,"[6, 8, 9]"
-Monday,5,7B,Teacher02,Toán,"[6, 8, 9]"
-Monday,5,7C,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Monday,5,7D,Teacher08,Văn,"[6, 8, 9]"
-Monday,5,8A,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Monday,5,8B,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Monday,5,8C,Teacher03,Toán,"[7, 8, 9]"
-Monday,5,8D,Teacher03,Toán,"[7, 8, 9]"
-Monday,5,9A,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Monday,5,9B,Teacher12,Văn,"[6, 7, 8, 9]"
-Monday,5,9C,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Monday,5,9D,Teacher27,Lịch sử và Địa lý,"[6, 7, 8]"
-Monday,6,6A,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Monday,6,6B,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Monday,6,6C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Monday,6,6D,Teacher10,Văn,"[6, 7, 8, 9]"
-Monday,6,7A,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Monday,6,7B,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Monday,6,7C,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Monday,6,7D,Teacher36,Tin học,"[6, 8, 9]"
-Monday,6,8A,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Monday,6,8B,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Monday,6,8C,Teacher04,Toán,"[6, 7, 8, 9]"
-Monday,6,8D,Teacher07,Văn,"[6, 7, 9]"
-Monday,6,9A,Teacher36,Tin học,"[6, 8, 9]"
-Monday,6,9B,Teacher34,Tin học,"[6, 8, 9]"
-Monday,6,9C,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Monday,6,9D,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Monday,7,6A,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Monday,7,6B,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Monday,7,6C,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Monday,7,6D,Teacher37,Tin học,"[6, 7, 8]"
-Monday,7,7A,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Monday,7,7B,Teacher09,Văn,"[6, 7, 8]"
-Monday,7,7C,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Monday,7,7D,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Monday,7,8A,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Monday,7,8B,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Monday,7,8C,Teacher34,Tin học,"[6, 8, 9]"
-Monday,7,8D,Teacher33,Tin học,"[6, 7, 8, 9]"
-Monday,7,9A,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Monday,7,9B,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Monday,7,9C,Teacher27,Lịch sử và Địa lý,"[6, 7, 8]"
-Monday,7,9D,Teacher35,Tin học,"[6, 7, 9]"
-Tuesday,1,6A,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Tuesday,1,6B,Teacher35,Tin học,"[6, 7, 9]"
-Tuesday,1,6C,Teacher01,Toán,"[6, 7, 9]"
-Tuesday,1,6D,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Tuesday,1,7A,Teacher03,Toán,"[7, 8, 9]"
-Tuesday,1,7B,Teacher06,Toán,"[6, 7, 8]"
-Tuesday,1,7C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Tuesday,1,7D,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Tuesday,1,8A,Teacher06,Toán,"[6, 7, 8]"
-Tuesday,1,8B,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Tuesday,1,8C,Teacher11,Văn,"[7, 8, 9]"
-Tuesday,1,8D,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Tuesday,1,9A,Teacher10,Văn,"[6, 7, 8, 9]"
-Tuesday,1,9B,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Tuesday,1,9C,Teacher01,Toán,"[6, 7, 9]"
-Tuesday,1,9D,Teacher02,Toán,"[6, 8, 9]"
-Tuesday,2,6A,Teacher27,Lịch sử và Địa lý,"[6, 7, 8]"
-Tuesday,2,6B,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Tuesday,2,6C,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Tuesday,2,6D,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Tuesday,2,7A,Teacher07,Văn,"[6, 7, 9]"
-Tuesday,2,7B,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Tuesday,2,7C,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Tuesday,2,7D,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Tuesday,2,8A,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Tuesday,2,8B,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Tuesday,2,8C,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Tuesday,2,8D,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Tuesday,2,9A,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Tuesday,2,9B,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Tuesday,2,9C,Teacher35,Tin học,"[6, 7, 9]"
-Tuesday,2,9D,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Tuesday,3,6A,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Tuesday,3,6B,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Tuesday,3,6C,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Tuesday,3,6D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Tuesday,3,7A,Teacher03,Toán,"[7, 8, 9]"
-Tuesday,3,7B,Teacher02,Toán,"[6, 8, 9]"
-Tuesday,3,7C,Teacher06,Toán,"[6, 7, 8]"
-Tuesday,3,7D,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Tuesday,3,8A,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Tuesday,3,8B,Teacher12,Văn,"[6, 7, 8, 9]"
-Tuesday,3,8C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Tuesday,3,8D,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Tuesday,3,9A,Teacher05,Toán,"[6, 8, 9]"
-Tuesday,3,9B,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Tuesday,3,9C,Teacher02,Toán,"[6, 8, 9]"
-Tuesday,3,9D,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Tuesday,4,6A,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Tuesday,4,6B,Teacher11,Văn,"[7, 8, 9]"
-Tuesday,4,6C,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Tuesday,4,6D,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Tuesday,4,7A,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Tuesday,4,7B,Teacher02,Toán,"[6, 8, 9]"
-Tuesday,4,7C,Teacher11,Văn,"[7, 8, 9]"
-Tuesday,4,7D,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Tuesday,4,8A,Teacher08,Văn,"[6, 8, 9]"
-Tuesday,4,8B,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Tuesday,4,8C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Tuesday,4,8D,Teacher11,Văn,"[7, 8, 9]"
-Tuesday,4,9A,Teacher08,Văn,"[6, 8, 9]"
-Tuesday,4,9B,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Tuesday,4,9C,Teacher08,Văn,"[6, 8, 9]"
-Tuesday,4,9D,Teacher12,Văn,"[6, 7, 8, 9]"
-Tuesday,5,6A,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Tuesday,5,6B,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Tuesday,5,6C,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Tuesday,5,6D,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Tuesday,5,7A,Teacher34,Tin học,"[6, 8, 9]"
-Tuesday,5,7B,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Tuesday,5,7C,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Tuesday,5,7D,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Tuesday,5,8A,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Tuesday,5,8B,Teacher11,Văn,"[7, 8, 9]"
-Tuesday,5,8C,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Tuesday,5,8D,Teacher11,Văn,"[7, 8, 9]"
-Tuesday,5,9A,Teacher12,Văn,"[6, 7, 8, 9]"
-Tuesday,5,9B,Teacher08,Văn,"[6, 8, 9]"
-Tuesday,5,9C,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Tuesday,5,9D,Teacher04,Toán,"[6, 7, 8, 9]"
-Tuesday,6,6A,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Tuesday,6,6B,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Tuesday,6,6C,Teacher34,Tin học,"[6, 8, 9]"
-Tuesday,6,6D,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Tuesday,6,7A,Teacher06,Toán,"[6, 7, 8]"
-Tuesday,6,7B,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Tuesday,6,7C,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Tuesday,6,7D,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Tuesday,6,8A,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Tuesday,6,8B,Teacher36,Tin học,"[6, 8, 9]"
-Tuesday,6,8C,Teacher06,Toán,"[6, 7, 8]"
-Tuesday,6,8D,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Tuesday,6,9A,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Tuesday,6,9B,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Tuesday,6,9C,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Tuesday,6,9D,Teacher07,Văn,"[6, 7, 9]"
-Tuesday,7,6A,Teacher06,Toán,"[6, 7, 8]"
-Tuesday,7,6B,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Tuesday,7,6C,Teacher35,Tin học,"[6, 7, 9]"
-Tuesday,7,6D,Teacher07,Văn,"[6, 7, 9]"
-Tuesday,7,7A,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Tuesday,7,7B,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Tuesday,7,7C,Teacher07,Văn,"[6, 7, 9]"
-Tuesday,7,7D,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Tuesday,7,8A,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Tuesday,7,8B,Teacher09,Văn,"[6, 7, 8]"
-Tuesday,7,8C,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Tuesday,7,8D,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Tuesday,7,9A,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Tuesday,7,9B,Teacher01,Toán,"[6, 7, 9]"
-Tuesday,7,9C,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Tuesday,7,9D,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Wednesday,1,6A,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Wednesday,1,6B,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Wednesday,1,6C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Wednesday,1,6D,Teacher09,Văn,"[6, 7, 8]"
-Wednesday,1,7A,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Wednesday,1,7B,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Wednesday,1,7C,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Wednesday,1,7D,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Wednesday,1,8A,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Wednesday,1,8B,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Wednesday,1,8C,Teacher10,Văn,"[6, 7, 8, 9]"
-Wednesday,1,8D,Teacher34,Tin học,"[6, 8, 9]"
-Wednesday,1,9A,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Wednesday,1,9B,Teacher06,Toán,"[6, 7, 8]"
-Wednesday,1,9C,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Wednesday,1,9D,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Wednesday,2,6A,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Wednesday,2,6B,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Wednesday,2,6C,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Wednesday,2,6D,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Wednesday,2,7A,Teacher34,Tin học,"[6, 8, 9]"
-Wednesday,2,7B,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Wednesday,2,7C,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Wednesday,2,7D,Teacher11,Văn,"[7, 8, 9]"
-Wednesday,2,8A,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Wednesday,2,8B,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Wednesday,2,8C,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Wednesday,2,8D,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Wednesday,2,9A,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Wednesday,2,9B,Teacher02,Toán,"[6, 8, 9]"
-Wednesday,2,9C,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Wednesday,2,9D,Teacher10,Văn,"[6, 7, 8, 9]"
-Wednesday,3,6A,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Wednesday,3,6B,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Wednesday,3,6C,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Wednesday,3,6D,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Wednesday,3,7A,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Wednesday,3,7B,Teacher34,Tin học,"[6, 8, 9]"
-Wednesday,3,7C,Teacher37,Tin học,"[6, 7, 8]"
-Wednesday,3,7D,Teacher34,Tin học,"[6, 8, 9]"
-Wednesday,3,8A,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Wednesday,3,8B,Teacher06,Toán,"[6, 7, 8]"
-Wednesday,3,8C,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Wednesday,3,8D,Teacher37,Tin học,"[6, 7, 8]"
-Wednesday,3,9A,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Wednesday,3,9B,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Wednesday,3,9C,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Wednesday,3,9D,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Wednesday,4,6A,Teacher33,Tin học,"[6, 7, 8, 9]"
-Wednesday,4,6B,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Wednesday,4,6C,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Wednesday,4,6D,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Wednesday,4,7A,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Wednesday,4,7B,Teacher35,Tin học,"[6, 7, 9]"
-Wednesday,4,7C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Wednesday,4,7D,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Wednesday,4,8A,Teacher34,Tin học,"[6, 8, 9]"
-Wednesday,4,8B,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Wednesday,4,8C,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Wednesday,4,8D,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Wednesday,4,9A,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Wednesday,4,9B,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Wednesday,4,9C,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Wednesday,4,9D,Teacher34,Tin học,"[6, 8, 9]"
-Wednesday,5,6A,Teacher09,Văn,"[6, 7, 8]"
-Wednesday,5,6B,Teacher34,Tin học,"[6, 8, 9]"
-Wednesday,5,6C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Wednesday,5,6D,Teacher02,Toán,"[6, 8, 9]"
-Wednesday,5,7A,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Wednesday,5,7B,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Wednesday,5,7C,Teacher12,Văn,"[6, 7, 8, 9]"
-Wednesday,5,7D,Teacher04,Toán,"[6, 7, 8, 9]"
-Wednesday,5,8A,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Wednesday,5,8B,Teacher37,Tin học,"[6, 7, 8]"
-Wednesday,5,8C,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Wednesday,5,8D,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Wednesday,5,9A,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Wednesday,5,9B,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Wednesday,5,9C,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Wednesday,5,9D,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Wednesday,6,6A,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Wednesday,6,6B,Teacher07,Văn,"[6, 7, 9]"
-Wednesday,6,6C,Teacher08,Văn,"[6, 8, 9]"
-Wednesday,6,6D,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Wednesday,6,7A,Teacher27,Lịch sử và Địa lý,"[6, 7, 8]"
-Wednesday,6,7B,Teacher37,Tin học,"[6, 7, 8]"
-Wednesday,6,7C,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Wednesday,6,7D,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Wednesday,6,8A,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Wednesday,6,8B,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Wednesday,6,8C,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Wednesday,6,8D,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Wednesday,6,9A,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Wednesday,6,9B,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Wednesday,6,9C,Teacher27,Lịch sử và Địa lý,"[6, 7, 8]"
-Wednesday,6,9D,Teacher03,Toán,"[7, 8, 9]"
-Wednesday,7,6A,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Wednesday,7,6B,Teacher12,Văn,"[6, 7, 8, 9]"
-Wednesday,7,6C,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Wednesday,7,6D,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Wednesday,7,7A,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Wednesday,7,7B,Teacher33,Tin học,"[6, 7, 8, 9]"
-Wednesday,7,7C,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Wednesday,7,7D,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Wednesday,7,8A,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Wednesday,7,8B,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Wednesday,7,8C,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Wednesday,7,8D,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Wednesday,7,9A,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Wednesday,7,9B,Teacher34,Tin học,"[6, 8, 9]"
-Wednesday,7,9C,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Wednesday,7,9D,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Thursday,1,6A,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Thursday,1,6B,Teacher33,Tin học,"[6, 7, 8, 9]"
-Thursday,1,6C,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Thursday,1,6D,Teacher12,Văn,"[6, 7, 8, 9]"
-Thursday,1,7A,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Thursday,1,7B,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Thursday,1,7C,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Thursday,1,7D,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Thursday,1,8A,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Thursday,1,8B,Teacher07,Văn,"[6, 7, 9]"
-Thursday,1,8C,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Thursday,1,8D,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Thursday,1,9A,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Thursday,1,9B,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Thursday,1,9C,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Thursday,1,9D,Teacher05,Toán,"[6, 8, 9]"
-Thursday,2,6A,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Thursday,2,6B,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Thursday,2,6C,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Thursday,2,6D,Teacher33,Tin học,"[6, 7, 8, 9]"
-Thursday,2,7A,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Thursday,2,7B,Teacher09,Văn,"[6, 7, 8]"
-Thursday,2,7C,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Thursday,2,7D,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Thursday,2,8A,Teacher37,Tin học,"[6, 7, 8]"
-Thursday,2,8B,Teacher12,Văn,"[6, 7, 8, 9]"
-Thursday,2,8C,Teacher27,Lịch sử và Địa lý,"[6, 7, 8]"
-Thursday,2,8D,Teacher02,Toán,"[6, 8, 9]"
-Thursday,2,9A,Teacher11,Văn,"[7, 8, 9]"
-Thursday,2,9B,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Thursday,2,9C,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Thursday,2,9D,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Thursday,3,6A,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Thursday,3,6B,Teacher01,Toán,"[6, 7, 9]"
-Thursday,3,6C,Teacher11,Văn,"[7, 8, 9]"
-Thursday,3,6D,Teacher11,Văn,"[7, 8, 9]"
-Thursday,3,7A,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Thursday,3,7B,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Thursday,3,7C,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Thursday,3,7D,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Thursday,3,8A,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Thursday,3,8B,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Thursday,3,8C,Teacher05,Toán,"[6, 8, 9]"
-Thursday,3,8D,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Thursday,3,9A,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Thursday,3,9B,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Thursday,3,9C,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Thursday,3,9D,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Thursday,4,6A,Teacher05,Toán,"[6, 8, 9]"
-Thursday,4,6B,Teacher36,Tin học,"[6, 8, 9]"
-Thursday,4,6C,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Thursday,4,6D,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Thursday,4,7A,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Thursday,4,7B,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Thursday,4,7C,Teacher01,Toán,"[6, 7, 9]"
-Thursday,4,7D,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Thursday,4,8A,Teacher35,Tin học,"[6, 7, 9]"
-Thursday,4,8B,Teacher10,Văn,"[6, 7, 8, 9]"
-Thursday,4,8C,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Thursday,4,8D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Thursday,4,9A,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Thursday,4,9B,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Thursday,4,9C,Teacher12,Văn,"[6, 7, 8, 9]"
-Thursday,4,9D,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Thursday,5,6A,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Thursday,5,6B,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Thursday,5,6C,Teacher07,Văn,"[6, 7, 9]"
-Thursday,5,6D,Teacher35,Tin học,"[6, 7, 9]"
-Thursday,5,7A,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Thursday,5,7B,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Thursday,5,7C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Thursday,5,7D,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Thursday,5,8A,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Thursday,5,8B,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Thursday,5,8C,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Thursday,5,8D,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Thursday,5,9A,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Thursday,5,9B,Teacher37,Tin học,"[6, 7, 8]"
-Thursday,5,9C,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Thursday,5,9D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Thursday,6,6A,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Thursday,6,6B,Teacher12,Văn,"[6, 7, 8, 9]"
-Thursday,6,6C,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Thursday,6,6D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Thursday,6,7A,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Thursday,6,7B,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Thursday,6,7C,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Thursday,6,7D,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Thursday,6,8A,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Thursday,6,8B,Teacher08,Văn,"[6, 8, 9]"
-Thursday,6,8C,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Thursday,6,8D,Teacher05,Toán,"[6, 8, 9]"
-Thursday,6,9A,Teacher06,Toán,"[6, 7, 8]"
-Thursday,6,9B,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Thursday,6,9C,Teacher37,Tin học,"[6, 7, 8]"
-Thursday,6,9D,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Thursday,7,6A,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Thursday,7,6B,Teacher34,Tin học,"[6, 8, 9]"
-Thursday,7,6C,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Thursday,7,6D,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Thursday,7,7A,Teacher04,Toán,"[6, 7, 8, 9]"
-Thursday,7,7B,Teacher36,Tin học,"[6, 8, 9]"
-Thursday,7,7C,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Thursday,7,7D,Teacher03,Toán,"[7, 8, 9]"
-Thursday,7,8A,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Thursday,7,8B,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Thursday,7,8C,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Thursday,7,8D,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Thursday,7,9A,Teacher01,Toán,"[6, 7, 9]"
-Thursday,7,9B,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Thursday,7,9C,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Thursday,7,9D,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Friday,1,6A,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Friday,1,6B,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Friday,1,6C,Teacher09,Văn,"[6, 7, 8]"
-Friday,1,6D,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Friday,1,7A,Teacher11,Văn,"[7, 8, 9]"
-Friday,1,7B,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Friday,1,7C,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Friday,1,7D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Friday,1,8A,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Friday,1,8B,Teacher03,Toán,"[7, 8, 9]"
-Friday,1,8C,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Friday,1,8D,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Friday,1,9A,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Friday,1,9B,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Friday,1,9C,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Friday,1,9D,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Friday,2,6A,Teacher03,Toán,"[7, 8, 9]"
-Friday,2,6B,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Friday,2,6C,Teacher02,Toán,"[6, 8, 9]"
-Friday,2,6D,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Friday,2,7A,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Friday,2,7B,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Friday,2,7C,Teacher12,Văn,"[6, 7, 8, 9]"
-Friday,2,7D,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Friday,2,8A,Teacher11,Văn,"[7, 8, 9]"
-Friday,2,8B,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Friday,2,8C,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Friday,2,8D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Friday,2,9A,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Friday,2,9B,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Friday,2,9C,Teacher10,Văn,"[6, 7, 8, 9]"
-Friday,2,9D,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Friday,3,6A,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Friday,3,6B,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Friday,3,6C,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Friday,3,6D,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Friday,3,7A,Teacher33,Tin học,"[6, 7, 8, 9]"
-Friday,3,7B,Teacher06,Toán,"[6, 7, 8]"
-Friday,3,7C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Friday,3,7D,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Friday,3,8A,Teacher02,Toán,"[6, 8, 9]"
-Friday,3,8B,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Friday,3,8C,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Friday,3,8D,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Friday,3,9A,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Friday,3,9B,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Friday,3,9C,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Friday,3,9D,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Friday,4,6A,Teacher37,Tin học,"[6, 7, 8]"
-Friday,4,6B,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Friday,4,6C,Teacher11,Văn,"[7, 8, 9]"
-Friday,4,6D,Teacher02,Toán,"[6, 8, 9]"
-Friday,4,7A,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Friday,4,7B,Teacher34,Tin học,"[6, 8, 9]"
-Friday,4,7C,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Friday,4,7D,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Friday,4,8A,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Friday,4,8B,Teacher11,Văn,"[7, 8, 9]"
-Friday,4,8C,Teacher10,Văn,"[6, 7, 8, 9]"
-Friday,4,8D,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Friday,4,9A,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Friday,4,9B,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Friday,4,9C,Teacher33,Tin học,"[6, 7, 8, 9]"
-Friday,4,9D,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Friday,5,6A,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Friday,5,6B,Teacher07,Văn,"[6, 7, 9]"
-Friday,5,6C,Teacher04,Toán,"[6, 7, 8, 9]"
-Friday,5,6D,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Friday,5,7A,Teacher37,Tin học,"[6, 7, 8]"
-Friday,5,7B,Teacher34,Tin học,"[6, 8, 9]"
-Friday,5,7C,Teacher35,Tin học,"[6, 7, 9]"
-Friday,5,7D,Teacher06,Toán,"[6, 7, 8]"
-Friday,5,8A,Teacher35,Tin học,"[6, 7, 9]"
-Friday,5,8B,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Friday,5,8C,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Friday,5,8D,Teacher08,Văn,"[6, 8, 9]"
-Friday,5,9A,Teacher03,Toán,"[7, 8, 9]"
-Friday,5,9B,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Friday,5,9C,Teacher02,Toán,"[6, 8, 9]"
-Friday,5,9D,Teacher29,Khoa học tự nhiên,"[6, 8, 9]"
-Friday,6,6A,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Friday,6,6B,Teacher33,Tin học,"[6, 7, 8, 9]"
-Friday,6,6C,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Friday,6,6D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Friday,6,7A,Teacher09,Văn,"[6, 7, 8]"
-Friday,6,7B,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Friday,6,7C,Teacher06,Toán,"[6, 7, 8]"
-Friday,6,7D,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Friday,6,8A,Teacher09,Văn,"[6, 7, 8]"
-Friday,6,8B,Teacher08,Văn,"[6, 8, 9]"
-Friday,6,8C,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Friday,6,8D,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Friday,6,9A,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Friday,6,9B,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Friday,6,9C,Teacher35,Tin học,"[6, 7, 9]"
-Friday,6,9D,Teacher33,Tin học,"[6, 7, 8, 9]"
-Friday,7,6A,Teacher07,Văn,"[6, 7, 9]"
-Friday,7,6B,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Friday,7,6C,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Friday,7,6D,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Friday,7,7A,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Friday,7,7B,Teacher08,Văn,"[6, 8, 9]"
-Friday,7,7C,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Friday,7,7D,Teacher06,Toán,"[6, 7, 8]"
-Friday,7,8A,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Friday,7,8B,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Friday,7,8C,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Friday,7,8D,Teacher09,Văn,"[6, 7, 8]"
-Friday,7,9A,Teacher35,Tin học,"[6, 7, 9]"
-Friday,7,9B,Teacher08,Văn,"[6, 8, 9]"
-Friday,7,9C,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Friday,7,9D,Teacher12,Văn,"[6, 7, 8, 9]"
-Saturday,1,6A,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Saturday,1,6B,Teacher07,Văn,"[6, 7, 9]"
-Saturday,1,6C,Teacher02,Toán,"[6, 8, 9]"
-Saturday,1,6D,Teacher11,Văn,"[7, 8, 9]"
-Saturday,1,7A,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Saturday,1,7B,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Saturday,1,7C,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Saturday,1,7D,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Saturday,1,8A,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Saturday,1,8B,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Saturday,1,8C,Teacher01,Toán,"[6, 7, 9]"
-Saturday,1,8D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Saturday,1,9A,Teacher05,Toán,"[6, 8, 9]"
-Saturday,1,9B,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Saturday,1,9C,Teacher10,Văn,"[6, 7, 8, 9]"
-Saturday,1,9D,Teacher36,Tin học,"[6, 8, 9]"
-Saturday,2,6A,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Saturday,2,6B,Teacher23,Lịch sử và Địa lý,"[6, 7, 8, 9]"
-Saturday,2,6C,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Saturday,2,6D,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Saturday,2,7A,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Saturday,2,7B,Teacher09,Văn,"[6, 7, 8]"
-Saturday,2,7C,Teacher35,Tin học,"[6, 7, 9]"
-Saturday,2,7D,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Saturday,2,8A,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Saturday,2,8B,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Saturday,2,8C,Teacher11,Văn,"[7, 8, 9]"
-Saturday,2,8D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Saturday,2,9A,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Saturday,2,9B,Teacher04,Toán,"[6, 7, 8, 9]"
-Saturday,2,9C,Teacher33,Tin học,"[6, 7, 8, 9]"
-Saturday,2,9D,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Saturday,3,6A,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Saturday,3,6B,Teacher01,Toán,"[6, 7, 9]"
-Saturday,3,6C,Teacher09,Văn,"[6, 7, 8]"
-Saturday,3,6D,Teacher02,Toán,"[6, 8, 9]"
-Saturday,3,7A,Teacher36,Tin học,"[6, 8, 9]"
-Saturday,3,7B,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Saturday,3,7C,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Saturday,3,7D,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Saturday,3,8A,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Saturday,3,8B,Teacher06,Toán,"[6, 7, 8]"
-Saturday,3,8C,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Saturday,3,8D,Teacher51,Nghệ thuật,"[6, 7, 9]"
-Saturday,3,9A,Teacher06,Toán,"[6, 7, 8]"
-Saturday,3,9B,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Saturday,3,9C,Teacher02,Toán,"[6, 8, 9]"
-Saturday,3,9D,Teacher05,Toán,"[6, 8, 9]"
-Saturday,4,6A,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Saturday,4,6B,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Saturday,4,6C,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Saturday,4,6D,Teacher11,Văn,"[7, 8, 9]"
-Saturday,4,7A,Teacher25,Lịch sử và Địa lý,"[6, 8, 9]"
-Saturday,4,7B,Teacher35,Tin học,"[6, 7, 9]"
-Saturday,4,7C,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Saturday,4,7D,Teacher12,Văn,"[6, 7, 8, 9]"
-Saturday,4,8A,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Saturday,4,8B,Teacher08,Văn,"[6, 8, 9]"
-Saturday,4,8C,Teacher04,Toán,"[6, 7, 8, 9]"
-Saturday,4,8D,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Saturday,4,9A,Teacher35,Tin học,"[6, 7, 9]"
-Saturday,4,9B,Teacher53,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Saturday,4,9C,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Saturday,4,9D,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Saturday,5,6A,Teacher52,Nghệ thuật,"[7, 8, 9]"
-Saturday,5,6B,Teacher26,Lịch sử và Địa lý,"[7, 8, 9]"
-Saturday,5,6C,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Saturday,5,6D,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Saturday,5,7A,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Saturday,5,7B,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Saturday,5,7C,Teacher30,Khoa học tự nhiên,"[6, 7, 8]"
-Saturday,5,7D,Teacher24,Lịch sử và Địa lý,"[6, 7, 9]"
-Saturday,5,8A,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Saturday,5,8B,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Saturday,5,8C,Teacher10,Văn,"[6, 7, 8, 9]"
-Saturday,5,8D,Teacher48,Giáo dục thể chất,"[6, 7, 9]"
-Saturday,5,9A,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Saturday,5,9B,Teacher10,Văn,"[6, 7, 8, 9]"
-Saturday,5,9C,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Saturday,5,9D,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Saturday,6,6A,Teacher11,Văn,"[7, 8, 9]"
-Saturday,6,6B,Teacher55,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Saturday,6,6C,Teacher40,Giáo dục công dân,"[6, 8, 9]"
-Saturday,6,6D,Teacher27,Lịch sử và Địa lý,"[6, 7, 8]"
-Saturday,6,7A,Teacher38,Giáo dục công dân,"[6, 7, 8, 9]"
-Saturday,6,7B,Teacher05,Toán,"[6, 8, 9]"
-Saturday,6,7C,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Saturday,6,7D,Teacher56,Công nghệ và hướng nghiệp,"[6, 7, 8, 9]"
-Saturday,6,8A,Teacher01,Toán,"[6, 7, 9]"
-Saturday,6,8B,Teacher32,Khoa học tự nhiên,"[6, 7, 9]"
-Saturday,6,8C,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Saturday,6,8D,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Saturday,6,9A,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Saturday,6,9B,Teacher49,Giáo dục thể chất,"[6, 8, 9]"
-Saturday,6,9C,Teacher50,Nghệ thuật,"[6, 7, 8, 9]"
-Saturday,6,9D,Teacher46,Ngoại ngữ 2,"[6, 7, 8, 9]"
-Saturday,7,6A,Teacher01,Toán,"[6, 7, 9]"
-Saturday,7,6B,Teacher06,Toán,"[6, 7, 8]"
-Saturday,7,6C,Teacher05,Toán,"[6, 8, 9]"
-Saturday,7,6D,Teacher28,Khoa học tự nhiên,"[6, 7, 9]"
-Saturday,7,7A,Teacher54,Hoạt động trải nghiệm sáng tạo,"[6, 7, 8, 9]"
-Saturday,7,7B,Teacher41,Ngoại ngữ 1,"[6, 9]"
-Saturday,7,7C,Teacher44,Ngoại ngữ 2,"[7, 8, 9]"
-Saturday,7,7D,Teacher43,Ngoại ngữ 1,"[6, 8, 9]"
-Saturday,7,8A,Teacher47,Giáo dục thể chất,"[6, 7, 8, 9]"
-Saturday,7,8B,Teacher45,Ngoại ngữ 2,"[6, 8, 9]"
-Saturday,7,8C,Teacher31,Khoa học tự nhiên,"[7, 8, 9]"
-Saturday,7,8D,Teacher42,Ngoại ngữ 1,"[6, 7, 9]"
-Saturday,7,9A,Teacher27,Lịch sử và Địa lý,"[6, 7, 8]"
-Saturday,7,9B,Teacher39,Giáo dục công dân,"[6, 7, 9]"
-Saturday,7,9C,Teacher06,Toán,"[6, 7, 8]"
-Saturday,7,9D,Teacher09,Văn,"[6, 7, 8]"
+WeekDate,Lesson,Class,Teacher,Subject
+Mon,2,12A1,X,Công nghệ & hướng nghiệp
+Mon,2,12A2,R,Nghệ thuật
+Mon,2,12A3,L,Hóa
+Mon,2,12A4,F,Văn
+Mon,2,12A5,N,Sinh
+Mon,2,12A6,S,GDCD
+Mon,2,12A7,U,Sử
+Mon,2,12A8,E,Văn
+Mon,2,12A9,T,Thế chất
+Mon,2,12A10,D,Toán
+Mon,2,12A11,G,Văn
+Mon,2,12A12,R,Nghệ thuật
+Mon,2,12A13,S,GDCD
+Mon,2,12A14,P,Anh
+Mon,2,12A15,V,Địa
+Mon,3,12A1,U,Sử
+Mon,3,12A2,D,Toán
+Mon,3,12A3,N,Sinh
+Mon,3,12A4,L,Hóa
+Mon,3,12A5,L,Hóa
+Mon,3,12A6,P,Anh
+Mon,3,12A7,P,Anh
+Mon,3,12A8,H,Văn
+Mon,3,12A9,X,Công nghệ & hướng nghiệp
+Mon,3,12A10,L,Hóa
+Mon,3,12A11,V,Địa
+Mon,3,12A12,C,Toán
+Mon,3,12A13,I,Lý
+Mon,3,12A14,R,Nghệ thuật
+Mon,3,12A15,C,Toán
+Mon,4,12A1,V,Địa
+Mon,4,12A2,S,GDCD
+Mon,4,12A3,O,Anh
+Mon,4,12A4,I,Lý
+Mon,4,12A5,N,Sinh
+Mon,4,12A6,U,Sử
+Mon,4,12A7,A,Toán
+Mon,4,12A8,I,Lý
+Mon,4,12A9,S,GDCD
+Mon,4,12A10,M,Hóa
+Mon,4,12A11,T,Thế chất
+Mon,4,12A12,T,Thế chất
+Mon,4,12A13,P,Anh
+Mon,4,12A14,V,Địa
+Mon,4,12A15,L,Hóa
+Mon,5,12A1,K,Lý
+Mon,5,12A2,P,Anh
+Mon,5,12A3,V,Địa
+Mon,5,12A4,Q,Tin học
+Mon,5,12A5,O,Anh
+Mon,5,12A6,G,Văn
+Mon,5,12A7,E,Văn
+Mon,5,12A8,X,Công nghệ & hướng nghiệp
+Mon,5,12A9,F,Văn
+Mon,5,12A10,T,Thế chất
+Mon,5,12A11,S,GDCD
+Mon,5,12A12,U,Sử
+Mon,5,12A13,R,Nghệ thuật
+Mon,5,12A14,G,Văn
+Mon,5,12A15,L,Hóa
+Mon,6,12A1,C,Toán
+Mon,6,12A2,R,Nghệ thuật
+Mon,6,12A3,V,Địa
+Mon,6,12A4,V,Địa
+Mon,6,12A5,X,Công nghệ & hướng nghiệp
+Mon,6,12A6,I,Lý
+Mon,6,12A7,V,Địa
+Mon,6,12A8,U,Sử
+Mon,6,12A9,Q,Tin học
+Mon,6,12A10,Q,Tin học
+Mon,6,12A11,N,Sinh
+Mon,6,12A12,R,Nghệ thuật
+Mon,6,12A13,I,Lý
+Mon,6,12A14,O,Anh
+Mon,6,12A15,F,Văn
+Mon,7,12A1,P,Anh
+Mon,7,12A2,S,GDCD
+Mon,7,12A3,T,Thế chất
+Mon,7,12A4,P,Anh
+Mon,7,12A5,A,Toán
+Mon,7,12A6,L,Hóa
+Mon,7,12A7,S,GDCD
+Mon,7,12A8,R,Nghệ thuật
+Mon,7,12A9,L,Hóa
+Mon,7,12A10,C,Toán
+Mon,7,12A11,M,Hóa
+Mon,7,12A12,V,Địa
+Mon,7,12A13,U,Sử
+Mon,7,12A14,U,Sử
+Mon,7,12A15,Q,Tin học
+Mon,8,12A1,U,Sử
+Mon,8,12A2,V,Địa
+Mon,8,12A3,A,Toán
+Mon,8,12A4,H,Văn
+Mon,8,12A5,O,Anh
+Mon,8,12A6,U,Sử
+Mon,8,12A7,N,Sinh
+Mon,8,12A8,M,Hóa
+Mon,8,12A9,X,Công nghệ & hướng nghiệp
+Mon,8,12A10,N,Sinh
+Mon,8,12A11,O,Anh
+Mon,8,12A12,T,Thế chất
+Mon,8,12A13,R,Nghệ thuật
+Mon,8,12A14,I,Lý
+Mon,8,12A15,F,Văn
+Mon,9,12A1,N,Sinh
+Mon,9,12A2,C,Toán
+Mon,9,12A3,R,Nghệ thuật
+Mon,9,12A4,X,Công nghệ & hướng nghiệp
+Mon,9,12A5,R,Nghệ thuật
+Mon,9,12A6,I,Lý
+Mon,9,12A7,X,Công nghệ & hướng nghiệp
+Mon,9,12A8,R,Nghệ thuật
+Mon,9,12A9,V,Địa
+Mon,9,12A10,D,Toán
+Mon,9,12A11,A,Toán
+Mon,9,12A12,C,Toán
+Mon,9,12A13,P,Anh
+Mon,9,12A14,N,Sinh
+Mon,9,12A15,K,Lý
+Tue,1,12A1,H,Văn
+Tue,1,12A2,T,Thế chất
+Tue,1,12A3,T,Thế chất
+Tue,1,12A4,O,Anh
+Tue,1,12A5,F,Văn
+Tue,1,12A6,C,Toán
+Tue,1,12A7,K,Lý
+Tue,1,12A8,H,Văn
+Tue,1,12A9,X,Công nghệ & hướng nghiệp
+Tue,1,12A10,D,Toán
+Tue,1,12A11,O,Anh
+Tue,1,12A12,Q,Tin học
+Tue,1,12A13,D,Toán
+Tue,1,12A14,F,Văn
+Tue,1,12A15,U,Sử
+Tue,2,12A1,X,Công nghệ & hướng nghiệp
+Tue,2,12A2,R,Nghệ thuật
+Tue,2,12A3,X,Công nghệ & hướng nghiệp
+Tue,2,12A4,R,Nghệ thuật
+Tue,2,12A5,P,Anh
+Tue,2,12A6,F,Văn
+Tue,2,12A7,K,Lý
+Tue,2,12A8,R,Nghệ thuật
+Tue,2,12A9,U,Sử
+Tue,2,12A10,M,Hóa
+Tue,2,12A11,M,Hóa
+Tue,2,12A12,V,Địa
+Tue,2,12A13,G,Văn
+Tue,2,12A14,G,Văn
+Tue,2,12A15,G,Văn
+Tue,3,12A1,L,Hóa
+Tue,3,12A2,X,Công nghệ & hướng nghiệp
+Tue,3,12A3,P,Anh
+Tue,3,12A4,G,Văn
+Tue,3,12A5,M,Hóa
+Tue,3,12A6,U,Sử
+Tue,3,12A7,D,Toán
+Tue,3,12A8,S,GDCD
+Tue,3,12A9,Q,Tin học
+Tue,3,12A10,P,Anh
+Tue,3,12A11,N,Sinh
+Tue,3,12A12,B,Toán
+Tue,3,12A13,T,Thế chất
+Tue,3,12A14,N,Sinh
+Tue,3,12A15,P,Anh
+Tue,4,12A1,Q,Tin học
+Tue,4,12A2,E,Văn
+Tue,4,12A3,I,Lý
+Tue,4,12A4,I,Lý
+Tue,4,12A5,S,GDCD
+Tue,4,12A6,V,Địa
+Tue,4,12A7,O,Anh
+Tue,4,12A8,V,Địa
+Tue,4,12A9,Q,Tin học
+Tue,4,12A10,Q,Tin học
+Tue,4,12A11,Q,Tin học
+Tue,4,12A12,O,Anh
+Tue,4,12A13,K,Lý
+Tue,4,12A14,L,Hóa
+Tue,4,12A15,L,Hóa
+Tue,5,12A1,T,Thế chất
+Tue,5,12A2,S,GDCD
+Tue,5,12A3,U,Sử
+Tue,5,12A4,R,Nghệ thuật
+Tue,5,12A5,G,Văn
+Tue,5,12A6,K,Lý
+Tue,5,12A7,U,Sử
+Tue,5,12A8,X,Công nghệ & hướng nghiệp
+Tue,5,12A9,N,Sinh
+Tue,5,12A10,P,Anh
+Tue,5,12A11,H,Văn
+Tue,5,12A12,E,Văn
+Tue,5,12A13,X,Công nghệ & hướng nghiệp
+Tue,5,12A14,U,Sử
+Tue,5,12A15,Q,Tin học
+Wed,1,12A1,T,Thế chất
+Wed,1,12A2,K,Lý
+Wed,1,12A3,C,Toán
+Wed,1,12A4,E,Văn
+Wed,1,12A5,F,Văn
+Wed,1,12A6,X,Công nghệ & hướng nghiệp
+Wed,1,12A7,A,Toán
+Wed,1,12A8,L,Hóa
+Wed,1,12A9,T,Thế chất
+Wed,1,12A10,S,GDCD
+Wed,1,12A11,L,Hóa
+Wed,1,12A12,V,Địa
+Wed,1,12A13,K,Lý
+Wed,1,12A14,P,Anh
+Wed,1,12A15,X,Công nghệ & hướng nghiệp
+Wed,2,12A1,S,GDCD
+Wed,2,12A2,D,Toán
+Wed,2,12A3,U,Sử
+Wed,2,12A4,G,Văn
+Wed,2,12A5,R,Nghệ thuật
+Wed,2,12A6,O,Anh
+Wed,2,12A7,G,Văn
+Wed,2,12A8,N,Sinh
+Wed,2,12A9,I,Lý
+Wed,2,12A10,D,Toán
+Wed,2,12A11,K,Lý
+Wed,2,12A12,P,Anh
+Wed,2,12A13,P,Anh
+Wed,2,12A14,V,Địa
+Wed,2,12A15,L,Hóa
+Wed,3,12A1,I,Lý
+Wed,3,12A2,Q,Tin học
+Wed,3,12A3,L,Hóa
+Wed,3,12A4,U,Sử
+Wed,3,12A5,C,Toán
+Wed,3,12A6,X,Công nghệ & hướng nghiệp
+Wed,3,12A7,Q,Tin học
+Wed,3,12A8,X,Công nghệ & hướng nghiệp
+Wed,3,12A9,L,Hóa
+Wed,3,12A10,O,Anh
+Wed,3,12A11,Q,Tin học
+Wed,3,12A12,M,Hóa
+Wed,3,12A13,V,Địa
+Wed,3,12A14,X,Công nghệ & hướng nghiệp
+Wed,3,12A15,P,Anh
+Wed,4,12A1,B,Toán
+Wed,4,12A2,C,Toán
+Wed,4,12A3,G,Văn
+Wed,4,12A4,G,Văn
+Wed,4,12A5,D,Toán
+Wed,4,12A6,U,Sử
+Wed,4,12A7,L,Hóa
+Wed,4,12A8,U,Sử
+Wed,4,12A9,M,Hóa
+Wed,4,12A10,Q,Tin học
+Wed,4,12A11,N,Sinh
+Wed,4,12A12,T,Thế chất
+Wed,4,12A13,Q,Tin học
+Wed,4,12A14,C,Toán
+Wed,4,12A15,V,Địa
+Wed,5,12A1,O,Anh
+Wed,5,12A2,M,Hóa
+Wed,5,12A3,R,Nghệ thuật
+Wed,5,12A4,X,Công nghệ & hướng nghiệp
+Wed,5,12A5,O,Anh
+Wed,5,12A6,I,Lý
+Wed,5,12A7,F,Văn
+Wed,5,12A8,P,Anh
+Wed,5,12A9,C,Toán
+Wed,5,12A10,N,Sinh
+Wed,5,12A11,V,Địa
+Wed,5,12A12,F,Văn
+Wed,5,12A13,X,Công nghệ & hướng nghiệp
+Wed,5,12A14,U,Sử
+Wed,5,12A15,O,Anh
+Wed,6,12A1,Q,Tin học
+Wed,6,12A2,U,Sử
+Wed,6,12A3,G,Văn
+Wed,6,12A4,O,Anh
+Wed,6,12A5,I,Lý
+Wed,6,12A6,F,Văn
+Wed,6,12A7,P,Anh
+Wed,6,12A8,D,Toán
+Wed,6,12A9,H,Văn
+Wed,6,12A10,S,GDCD
+Wed,6,12A11,O,Anh
+Wed,6,12A12,Q,Tin học
+Wed,6,12A13,V,Địa
+Wed,6,12A14,P,Anh
+Wed,6,12A15,K,Lý
+Wed,7,12A1,E,Văn
+Wed,7,12A2,T,Thế chất
+Wed,7,12A3,I,Lý
+Wed,7,12A4,L,Hóa
+Wed,7,12A5,L,Hóa
+Wed,7,12A6,S,GDCD
+Wed,7,12A7,I,Lý
+Wed,7,12A8,P,Anh
+Wed,7,12A9,P,Anh
+Wed,7,12A10,I,Lý
+Wed,7,12A11,R,Nghệ thuật
+Wed,7,12A12,F,Văn
+Wed,7,12A13,Q,Tin học
+Wed,7,12A14,U,Sử
+Wed,7,12A15,A,Toán
+Wed,8,12A1,M,Hóa
+Wed,8,12A2,K,Lý
+Wed,8,12A3,X,Công nghệ & hướng nghiệp
+Wed,8,12A4,G,Văn
+Wed,8,12A5,V,Địa
+Wed,8,12A6,X,Công nghệ & hướng nghiệp
+Wed,8,12A7,P,Anh
+Wed,8,12A8,S,GDCD
+Wed,8,12A9,T,Thế chất
+Wed,8,12A10,G,Văn
+Wed,8,12A11,K,Lý
+Wed,8,12A12,R,Nghệ thuật
+Wed,8,12A13,R,Nghệ thuật
+Wed,8,12A14,P,Anh
+Wed,8,12A15,Q,Tin học
+Wed,9,12A1,S,GDCD
+Wed,9,12A2,M,Hóa
+Wed,9,12A3,R,Nghệ thuật
+Wed,9,12A4,T,Thế chất
+Wed,9,12A5,S,GDCD
+Wed,9,12A6,B,Toán
+Wed,9,12A7,X,Công nghệ & hướng nghiệp
+Wed,9,12A8,M,Hóa
+Wed,9,12A9,R,Nghệ thuật
+Wed,9,12A10,K,Lý
+Wed,9,12A11,S,GDCD
+Wed,9,12A12,B,Toán
+Wed,9,12A13,A,Toán
+Wed,9,12A14,N,Sinh
+Wed,9,12A15,R,Nghệ thuật
+Thu,1,12A1,Q,Tin học
+Thu,1,12A2,R,Nghệ thuật
+Thu,1,12A3,C,Toán
+Thu,1,12A4,U,Sử
+Thu,1,12A5,R,Nghệ thuật
+Thu,1,12A6,U,Sử
+Thu,1,12A7,A,Toán
+Thu,1,12A8,E,Văn
+Thu,1,12A9,E,Văn
+Thu,1,12A10,R,Nghệ thuật
+Thu,1,12A11,U,Sử
+Thu,1,12A12,K,Lý
+Thu,1,12A13,T,Thế chất
+Thu,1,12A14,L,Hóa
+Thu,1,12A15,R,Nghệ thuật
+Thu,2,12A1,S,GDCD
+Thu,2,12A2,O,Anh
+Thu,2,12A3,B,Toán
+Thu,2,12A4,H,Văn
+Thu,2,12A5,T,Thế chất
+Thu,2,12A6,M,Hóa
+Thu,2,12A7,R,Nghệ thuật
+Thu,2,12A8,X,Công nghệ & hướng nghiệp
+Thu,2,12A9,F,Văn
+Thu,2,12A10,L,Hóa
+Thu,2,12A11,S,GDCD
+Thu,2,12A12,V,Địa
+Thu,2,12A13,L,Hóa
+Thu,2,12A14,U,Sử
+Thu,2,12A15,D,Toán
+Thu,3,12A1,I,Lý
+Thu,3,12A2,G,Văn
+Thu,3,12A3,M,Hóa
+Thu,3,12A4,X,Công nghệ & hướng nghiệp
+Thu,3,12A5,A,Toán
+Thu,3,12A6,V,Địa
+Thu,3,12A7,V,Địa
+Thu,3,12A8,G,Văn
+Thu,3,12A9,A,Toán
+Thu,3,12A10,G,Văn
+Thu,3,12A11,H,Văn
+Thu,3,12A12,I,Lý
+Thu,3,12A13,S,GDCD
+Thu,3,12A14,Q,Tin học
+Thu,3,12A15,U,Sử
+Thu,4,12A1,B,Toán
+Thu,4,12A2,K,Lý
+Thu,4,12A3,P,Anh
+Thu,4,12A4,R,Nghệ thuật
+Thu,4,12A5,L,Hóa
+Thu,4,12A6,V,Địa
+Thu,4,12A7,A,Toán
+Thu,4,12A8,I,Lý
+Thu,4,12A9,I,Lý
+Thu,4,12A10,R,Nghệ thuật
+Thu,4,12A11,C,Toán
+Thu,4,12A12,T,Thế chất
+Thu,4,12A13,P,Anh
+Thu,4,12A14,L,Hóa
+Thu,4,12A15,L,Hóa
+Thu,5,12A1,N,Sinh
+Thu,5,12A2,R,Nghệ thuật
+Thu,5,12A3,T,Thế chất
+Thu,5,12A4,I,Lý
+Thu,5,12A5,N,Sinh
+Thu,5,12A6,L,Hóa
+Thu,5,12A7,A,Toán
+Thu,5,12A8,V,Địa
+Thu,5,12A9,A,Toán
+Thu,5,12A10,I,Lý
+Thu,5,12A11,K,Lý
+Thu,5,12A12,N,Sinh
+Thu,5,12A13,N,Sinh
+Thu,5,12A14,P,Anh
+Thu,5,12A15,G,Văn
+Fri,1,12A1,E,Văn
+Fri,1,12A2,X,Công nghệ & hướng nghiệp
+Fri,1,12A3,O,Anh
+Fri,1,12A4,N,Sinh
+Fri,1,12A5,X,Công nghệ & hướng nghiệp
+Fri,1,12A6,K,Lý
+Fri,1,12A7,E,Văn
+Fri,1,12A8,Q,Tin học
+Fri,1,12A9,A,Toán
+Fri,1,12A10,E,Văn
+Fri,1,12A11,U,Sử
+Fri,1,12A12,L,Hóa
+Fri,1,12A13,L,Hóa
+Fri,1,12A14,R,Nghệ thuật
+Fri,1,12A15,G,Văn
+Fri,2,12A1,B,Toán
+Fri,2,12A2,G,Văn
+Fri,2,12A3,H,Văn
+Fri,2,12A4,V,Địa
+Fri,2,12A5,S,GDCD
+Fri,2,12A6,P,Anh
+Fri,2,12A7,P,Anh
+Fri,2,12A8,C,Toán
+Fri,2,12A9,R,Nghệ thuật
+Fri,2,12A10,Q,Tin học
+Fri,2,12A11,S,GDCD
+Fri,2,12A12,T,Thế chất
+Fri,2,12A13,T,Thế chất
+Fri,2,12A14,V,Địa
+Fri,2,12A15,M,Hóa
+Fri,3,12A1,R,Nghệ thuật
+Fri,3,12A2,N,Sinh
+Fri,3,12A3,R,Nghệ thuật
+Fri,3,12A4,R,Nghệ thuật
+Fri,3,12A5,M,Hóa
+Fri,3,12A6,R,Nghệ thuật
+Fri,3,12A7,O,Anh
+Fri,3,12A8,P,Anh
+Fri,3,12A9,V,Địa
+Fri,3,12A10,T,Thế chất
+Fri,3,12A11,T,Thế chất
+Fri,3,12A12,D,Toán
+Fri,3,12A13,X,Công nghệ & hướng nghiệp
+Fri,3,12A14,I,Lý
+Fri,3,12A15,T,Thế chất
+Fri,4,12A1,X,Công nghệ & hướng nghiệp
+Fri,4,12A2,R,Nghệ thuật
+Fri,4,12A3,O,Anh
+Fri,4,12A4,X,Công nghệ & hướng nghiệp
+Fri,4,12A5,S,GDCD
+Fri,4,12A6,R,Nghệ thuật
+Fri,4,12A7,Q,Tin học
+Fri,4,12A8,H,Văn
+Fri,4,12A9,P,Anh
+Fri,4,12A10,G,Văn
+Fri,4,12A11,L,Hóa
+Fri,4,12A12,I,Lý
+Fri,4,12A13,R,Nghệ thuật
+Fri,4,12A14,N,Sinh
+Fri,4,12A15,X,Công nghệ & hướng nghiệp
+Fri,5,12A1,D,Toán
+Fri,5,12A2,C,Toán
+Fri,5,12A3,S,GDCD
+Fri,5,12A4,X,Công nghệ & hướng nghiệp
+Fri,5,12A5,T,Thế chất
+Fri,5,12A6,N,Sinh
+Fri,5,12A7,O,Anh
+Fri,5,12A8,R,Nghệ thuật
+Fri,5,12A9,O,Anh
+Fri,5,12A10,O,Anh
+Fri,5,12A11,S,GDCD
+Fri,5,12A12,U,Sử
+Fri,5,12A13,F,Văn
+Fri,5,12A14,N,Sinh
+Fri,5,12A15,Q,Tin học
+Fri,6,12A1,P,Anh
+Fri,6,12A2,M,Hóa
+Fri,6,12A3,X,Công nghệ & hướng nghiệp
+Fri,6,12A4,G,Văn
+Fri,6,12A5,T,Thế chất
+Fri,6,12A6,Q,Tin học
+Fri,6,12A7,V,Địa
+Fri,6,12A8,U,Sử
+Fri,6,12A9,N,Sinh
+Fri,6,12A10,C,Toán
+Fri,6,12A11,M,Hóa
+Fri,6,12A12,N,Sinh
+Fri,6,12A13,G,Văn
+Fri,6,12A14,C,Toán
+Fri,6,12A15,D,Toán
+Fri,7,12A1,T,Thế chất
+Fri,7,12A2,E,Văn
+Fri,7,12A3,H,Văn
+Fri,7,12A4,U,Sử
+Fri,7,12A5,F,Văn
+Fri,7,12A6,V,Địa
+Fri,7,12A7,Q,Tin học
+Fri,7,12A8,C,Toán
+Fri,7,12A9,K,Lý
+Fri,7,12A10,V,Địa
+Fri,7,12A11,P,Anh
+Fri,7,12A12,P,Anh
+Fri,7,12A13,D,Toán
+Fri,7,12A14,D,Toán
+Fri,7,12A15,N,Sinh
+Fri,8,12A1,I,Lý
+Fri,8,12A2,O,Anh
+Fri,8,12A3,L,Hóa
+Fri,8,12A4,N,Sinh
+Fri,8,12A5,L,Hóa
+Fri,8,12A6,H,Văn
+Fri,8,12A7,L,Hóa
+Fri,8,12A8,P,Anh
+Fri,8,12A9,T,Thế chất
+Fri,8,12A10,V,Địa
+Fri,8,12A11,H,Văn
+Fri,8,12A12,H,Văn
+Fri,8,12A13,F,Văn
+Fri,8,12A14,Q,Tin học
+Fri,8,12A15,K,Lý
+Sat ,1,12A1,X,Công nghệ & hướng nghiệp
+Sat ,1,12A2,O,Anh
+Sat ,1,12A3,T,Thế chất
+Sat ,1,12A4,Q,Tin học
+Sat ,1,12A5,B,Toán
+Sat ,1,12A6,H,Văn
+Sat ,1,12A7,T,Thế chất
+Sat ,1,12A8,R,Nghệ thuật
+Sat ,1,12A9,S,GDCD
+Sat ,1,12A10,P,Anh
+Sat ,1,12A11,A,Toán
+Sat ,1,12A12,T,Thế chất
+Sat ,1,12A13,O,Anh
+Sat ,1,12A14,D,Toán
+Sat ,1,12A15,F,Văn
+Sat ,2,12A1,N,Sinh
+Sat ,2,12A2,T,Thế chất
+Sat ,2,12A3,G,Văn
+Sat ,2,12A4,K,Lý
+Sat ,2,12A5,N,Sinh
+Sat ,2,12A6,T,Thế chất
+Sat ,2,12A7,L,Hóa
+Sat ,2,12A8,N,Sinh
+Sat ,2,12A9,F,Văn
+Sat ,2,12A10,K,Lý
+Sat ,2,12A11,K,Lý
+Sat ,2,12A12,O,Anh
+Sat ,2,12A13,T,Thế chất
+Sat ,2,12A14,K,Lý
+Sat ,2,12A15,Q,Tin học
+Sat ,3,12A1,Q,Tin học
+Sat ,3,12A2,X,Công nghệ & hướng nghiệp
+Sat ,3,12A3,X,Công nghệ & hướng nghiệp
+Sat ,3,12A4,A,Toán
+Sat ,3,12A5,S,GDCD
+Sat ,3,12A6,S,GDCD
+Sat ,3,12A7,V,Địa
+Sat ,3,12A8,I,Lý
+Sat ,3,12A9,S,GDCD
+Sat ,3,12A10,N,Sinh
+Sat ,3,12A11,H,Văn
+Sat ,3,12A12,C,Toán
+Sat ,3,12A13,O,Anh
+Sat ,3,12A14,U,Sử
+Sat ,3,12A15,T,Thế chất
+Sat ,4,12A1,C,Toán
+Sat ,4,12A2,I,Lý
+Sat ,4,12A3,H,Văn
+Sat ,4,12A4,Q,Tin học
+Sat ,4,12A5,R,Nghệ thuật
+Sat ,4,12A6,S,GDCD
+Sat ,4,12A7,U,Sử
+Sat ,4,12A8,T,Thế chất
+Sat ,4,12A9,P,Anh
+Sat ,4,12A10,T,Thế chất
+Sat ,4,12A11,O,Anh
+Sat ,4,12A12,M,Hóa
+Sat ,4,12A13,A,Toán
+Sat ,4,12A14,V,Địa
+Sat ,4,12A15,N,Sinh
+Sat ,5,12A1,B,Toán
+Sat ,5,12A2,A,Toán
+Sat ,5,12A3,Q,Tin học
+Sat ,5,12A4,A,Toán
+Sat ,5,12A5,U,Sử
+Sat ,5,12A6,U,Sử
+Sat ,5,12A7,P,Anh
+Sat ,5,12A8,P,Anh
+Sat ,5,12A9,R,Nghệ thuật
+Sat ,5,12A10,X,Công nghệ & hướng nghiệp
+Sat ,5,12A11,O,Anh
+Sat ,5,12A12,M,Hóa
+Sat ,5,12A13,X,Công nghệ & hướng nghiệp
+Sat ,5,12A14,E,Văn
+Sat ,5,12A15,N,Sinh
